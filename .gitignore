@@ -5,3 +5,4 @@ Thumbs.db
 client_secret*.json
 *_token*.json
 credentials/
+~$*

@@ -217,7 +217,7 @@ These constraints matter because local ceilings reflect both model capability an
 The following materials are publicly available as part of the manuscript evidence chain in the Quantyra Teaching Artifacts repository:
 
 - repository: `https://github.com/dfredriksen/quantyra-teaching-artifacts`
-- fixed paper-support release: `https://github.com/dfredriksen/quantyra-teaching-artifacts/releases/tag/v1.0.1`
+- fixed paper-support release: `https://github.com/dfredriksen/quantyra-teaching-artifacts/releases/tag/v1.0.2`
 
 - benchmark packets
 - run sheets
