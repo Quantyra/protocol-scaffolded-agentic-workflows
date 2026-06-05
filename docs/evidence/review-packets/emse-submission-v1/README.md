@@ -46,7 +46,7 @@ Provide a single review-ready location for the current `EMSE` submission packet 
 - the repo-side packet now scores `15/16` on the hard rubric and clears the manuscript-quality threshold
 - the remaining organizational actions are staffed signoff and final visual inspection
 - public artifact repository: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`
-- fixed paper-support release target: `v1.0.4`
+- fixed paper-support release target: `v1.0.5`
 
 ## Submission-facing files
 
