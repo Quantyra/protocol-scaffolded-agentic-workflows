@@ -1,0 +1,29 @@
+{
+  "title": "Protocol-Scaffolded Agentic Workflows Artifacts",
+  "description": "Public artifact repository supporting an empirical paper on protocol-scaffolded agentic workflows, cross-provider LLM evaluation, retained evidence chains, reviewer-mediated assessment, and bounded local resilience. This metadata does not claim journal submission, peer review, acceptance, publication, or DOI creation before those events occur.",
+  "creators": [
+    {
+      "name": "Fredriksen, Daniel Eric",
+      "affiliation": "Quantyra Inc",
+      "orcid": "0009-0002-9123-7435"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "agentic workflows",
+    "protocol scaffolding",
+    "empirical software engineering",
+    "LLM evaluation",
+    "reproducibility"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "v1.0.3",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

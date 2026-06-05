@@ -42,7 +42,7 @@ Daniel Eric Fredriksen is the sole author and was responsible for the study conc
 
 ### Data, materials, and/or code availability
 
-The benchmark packets, retained artifact chains, reviewer materials, manuscript supplement, and selected reproducibility scripts supporting this study are publicly available in the Quantyra Teaching Artifacts repository: `https://github.com/dfredriksen/quantyra-teaching-artifacts`. The fixed paper-support release cited for this submission is version `v1.0.2`: `https://github.com/dfredriksen/quantyra-teaching-artifacts/releases/tag/v1.0.2`.
+The benchmark packets, retained artifact chains, reviewer materials, manuscript supplement, and selected reproducibility scripts supporting this study are publicly available in the Protocol-Scaffolded Agentic Workflows Artifacts repository: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows`. The fixed paper-support release cited for this submission is version `v1.0.3`: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3`.
 
 ### Ethics approval
 

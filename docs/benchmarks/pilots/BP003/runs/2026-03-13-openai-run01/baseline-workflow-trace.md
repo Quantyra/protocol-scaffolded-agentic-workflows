@@ -15,7 +15,7 @@
      - Approval status note: exists
 
 3. **Approval Gate Checks**
-   - Internal reviewer not yet assigned—reviewer list is missing.
+   - Internal reviewer not yet assignedï¿½reviewer list is missing.
    - Publication approval from VP of Research is not present.
    - IP review status is not present.
 

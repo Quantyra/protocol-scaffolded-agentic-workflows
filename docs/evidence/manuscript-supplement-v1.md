@@ -214,10 +214,10 @@ These constraints matter because local ceilings reflect both model capability an
 
 ## Supplement G. Data, Materials, And Audit Trail Availability
 
-The following materials are publicly available as part of the manuscript evidence chain in the Quantyra Teaching Artifacts repository:
+The following materials are publicly available as part of the manuscript evidence chain in the Protocol-Scaffolded Agentic Workflows Artifacts repository:
 
-- repository: `https://github.com/dfredriksen/quantyra-teaching-artifacts`
-- fixed paper-support release: `https://github.com/dfredriksen/quantyra-teaching-artifacts/releases/tag/v1.0.2`
+- repository: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows`
+- fixed paper-support release: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3`
 
 - benchmark packets
 - run sheets

@@ -1,4 +1,4 @@
-# Quantyra Teaching Artifacts
+# Protocol-Scaffolded Agentic Workflows Artifacts
 
 Open artifact repository for the paper:
 
@@ -8,8 +8,8 @@ This repository is the public evidence surface for the current Quantyra Teaching
 
 Repository URL:
 
-- `https://github.com/dfredriksen/quantyra-teaching-artifacts`
-- fixed paper-support release: `https://github.com/dfredriksen/quantyra-teaching-artifacts/releases/tag/v1.0.2`
+- `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows`
+- fixed paper-support release: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3`
 
 ## Scope
 

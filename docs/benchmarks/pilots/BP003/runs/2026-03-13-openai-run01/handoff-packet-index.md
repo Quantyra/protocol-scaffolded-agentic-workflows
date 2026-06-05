@@ -8,7 +8,7 @@
 - **Abstract (Draft):**  
   _[Draft abstract text available in working files, to be appended by next reviewer.]_
 - **Evidence-Summary Table:**  
-  _[Partial evidence summary available, flagged as incomplete—requires completion and confirmation.]_
+  _[Partial evidence summary available, flagged as incompleteï¿½requires completion and confirmation.]_
 - **Benchmark Coverage Statement:**  
   _[Existing statement included in draft materials.]_
 - **Reviewer List:**  

@@ -15,7 +15,7 @@
      - Approval status note: exists
 
 3. **Approval Gate Checks**
-   - Internal reviewer not yet assigned—reviewer list is missing.
+   - Internal reviewer not yet assignedï¿½reviewer list is missing.
    - Publication approval from VP of Research is not present.
    - IP review status is not present.
 
@@ -54,7 +54,7 @@
 - **Abstract (Draft):**  
   _[Draft abstract text available in working files, to be appended by next reviewer.]_
 - **Evidence-Summary Table:**  
-  _[Partial evidence summary available, flagged as incomplete—requires completion and confirmation.]_
+  _[Partial evidence summary available, flagged as incompleteï¿½requires completion and confirmation.]_
 - **Benchmark Coverage Statement:**  
   _[Existing statement included in draft materials.]_
 - **Reviewer List:**  
