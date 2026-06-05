@@ -2,14 +2,14 @@
 
 Open artifact repository for the paper:
 
-> **Protocol-Mediated Uplift in Agentic Workflows: Cross-Provider Evidence and Bounded Local Resilience**
+> **Evaluating Protocol-Scaffolded Agentic Workflows Across LLM Providers**
 
 This repository is the public evidence surface for the current Quantyra Teaching paper. It exposes the manuscript, supplement, benchmark packets, retained run artifacts, reviewer materials, synthesis notes, figures, and selected reproducibility scripts used in the paper's current release path.
 
 Repository URL:
 
 - `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`
-- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.6`
+- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.7`
 
 ## Scope
 

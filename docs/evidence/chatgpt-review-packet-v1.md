@@ -1,7 +1,7 @@
 # ChatGPT Review Packet V1
 
-Date: 2026-04-11  
-Target manuscript: `Protocol-Mediated Uplift in Agentic Workflows: Cross-Provider Evidence and Bounded Local Resilience`  
+Date: 2026-04-11
+Target manuscript: `Evaluating Protocol-Scaffolded Agentic Workflows Across LLM Providers`
 Target venue: `Empirical Software Engineering`
 
 ## Purpose

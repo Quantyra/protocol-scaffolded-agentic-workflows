@@ -1,13 +1,13 @@
 # EMSE Cover Letter Draft V1
 
-Date: 2026-04-11  
+Date: 2026-06-05
 Target venue: `Empirical Software Engineering`
 
 ## Draft
 
 Dear Editors,
 
-Please consider our manuscript, *Protocol-Mediated Uplift in Agentic Workflows: Cross-Provider Evidence and Bounded Local Resilience*, for publication in *Empirical Software Engineering*.
+Please consider our manuscript, *Evaluating Protocol-Scaffolded Agentic Workflows Across LLM Providers*, for publication in *Empirical Software Engineering*.
 
 This manuscript presents an empirical study of protocolized execution and review workflows for agentic systems. The central question is whether reusable protocol artifacts can improve agent behavior relative to weaker baseline prompting. The primary evidence surface is a hosted cross-provider matrix spanning OpenAI, Google, and Anthropic models across planning and workflow benchmark families. Across that hosted matrix, taught conditions repeatedly outperform weaker baseline conditions within model. The manuscript also includes a bounded local/open-weight evidence layer, framed explicitly as resilience support rather than parity with hosted systems.
 
@@ -17,7 +17,7 @@ The manuscript is careful about its current evidence posture. We treat hosted re
 
 This manuscript is not under consideration elsewhere. We believe it will be of interest to readers concerned with the empirical evaluation, engineering design, and operational governance of agentic software systems.
 
-Sincerely,  
+Sincerely,
 Quantyra Teaching research team
 
 ## Revision note

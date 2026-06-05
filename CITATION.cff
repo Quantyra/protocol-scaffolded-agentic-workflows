@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as software/artifact support for the Quantyra Teaching paper."
 title: "Protocol-Scaffolded Agentic Workflows Artifacts"
-version: "1.0.6"
+version: "1.0.7"
 date-released: "2026-06-05"
 type: software
 authors:
@@ -10,13 +10,13 @@ authors:
     affiliation: "Quantyra Inc"
     email: "dfredriksen@quantyra.org"
 repository-code: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows"
-url: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.6"
+url: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.7"
 preferred-citation:
   type: article
   authors:
     - family-names: "Fredriksen"
       given-names: "Daniel Eric"
-  title: "Protocol-Mediated Uplift in Agentic Workflows: Cross-Provider Evidence and Bounded Local Resilience"
+  title: "Evaluating Protocol-Scaffolded Agentic Workflows Across LLM Providers"
   year: 2026
-  url: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.6"
-  note: "Open artifact repository supporting the Quantyra Teaching paper, version 1.0.3."
+  url: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.7"
+  note: "Open artifact repository supporting the Quantyra Teaching paper, version 1.0.7."

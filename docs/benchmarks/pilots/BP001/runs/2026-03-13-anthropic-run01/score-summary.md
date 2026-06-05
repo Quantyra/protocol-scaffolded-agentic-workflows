@@ -18,9 +18,10 @@
 - Same-operator scoring
 - The taught prompt embeds the planning protocol directly
 - The taught output was captured in concise form after a shorter-token rerun
+- The retained baseline artifact is an operator narrative rather than a full verbatim transcript; see `baseline-verbatim-retention-gap.md`
 
 ## Interpretation
-This is strong evidence that Anthropic `claude-sonnet-4-6` benefits materially from the taught planning protocol on BP001, with a sharper improvement than the baseline because the baseline failed catastrophically. Task alignment still needs monitoring.
+This is evidence that Anthropic `claude-sonnet-4-6` improved materially under the taught planning protocol on BP001, but the magnitude should be interpreted cautiously because the baseline failed catastrophically and is retained as an operator narrative rather than a verbatim transcript. Task alignment still needs monitoring.
 
 ## Follow-on action
 - Execute Anthropic BP002 and compare whether task drift persists under workflow constraints.

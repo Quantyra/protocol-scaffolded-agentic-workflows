@@ -1,6 +1,6 @@
 # Manuscript Supplement V1
 
-Date: 2026-04-11  
+Date: 2026-06-05
 Target venue: `Empirical Software Engineering`
 
 ## Purpose
@@ -27,6 +27,18 @@ Provide the submission-facing supplement that supports the main manuscript witho
 ### Construct note
 
 In this manuscript, `teaching` does not mean durable internal learning. It means that a lesson has been externalized into a reusable protocol artifact and then injected into the taught condition as a structured intervention.
+
+### Instruction-specificity note
+
+The current baseline and taught prompts are not length- or specificity-matched. The baseline condition is deliberately weak and underspecified, while the taught condition supplies a reusable protocol artifact and more explicit rubric-aligned output requirements. The present comparison therefore supports an operational claim about explicit protocol scaffolding versus weak prompting. It does not isolate the marginal effect of protocol reuse from the marginal effect of more detailed instructions.
+
+Required follow-on ablation:
+
+- run an instruction-matched control condition that is equally detailed and rubric-aligned but does not invoke the reusable protocol artifact, or invokes an irrelevant protocol artifact
+
+### Replication and variance note
+
+Each hosted provider-by-family-by-condition cell in the retained manuscript spine is a single scored run. Clarified reruns and transfer variants are retained as adjacent evidence, not as repeated trials of the same condition. The current evidence base therefore does not support variance estimates, confidence intervals, or significance tests. One- or two-point differences should be interpreted as weak or ceiling-limited unless supported by larger branch-level context.
 
 ## Supplement B. Branch-Level Run Accounting
 
@@ -165,12 +177,17 @@ Reporting rule:
 ### Current review posture
 
 - most of the full portfolio still relies on `L0/L1`
+- operator-side `L0/L1` worksheets identify Codex as the evaluator, not a separate human grader
 - `L2A` is used as a secondary consistency check, not as independence proof
-- distinct human `L2` now exists for the hosted `BP001/BP002` slice and agrees directionally with the stronger taught condition in all six reviewed runs
+- distinct human `L2` now exists for the hosted `BP001/BP002` slice and is treated as directional support, not condition-level quantitative resolution
 
 ### Human `L2` handling rule
 
-The Fernanda De La O memo is the controlling human-review artifact. The manuscript uses the memo for directional support and uses the repository-local score-table transcription only for column totals. The paper does not rely on unlabeled rubric rows for finer-grained numerical interpretation.
+The Fernanda De La O memo is the controlling human-review artifact. The manuscript uses the memo for directional support and uses the repository-local score-table transcription only for column totals. The score table records one column per provider-by-benchmark cell rather than separate baseline and taught scores, and its absolute totals are lower than the operator-side taught scores. The paper therefore does not use the memo as condition-level quantitative confirmation and does not rely on unlabeled rubric rows for finer-grained numerical interpretation.
+
+### Model-based `L2A` handling rule
+
+The Anthropic `L2A` review is a useful secondary consistency check, but it is not treated as independent adjudication. It uses `claude-sonnet-4-6` as judge, including for an Anthropic-authored output in the hosted slice, so same-family and partial self-judging risks remain.
 
 ## Supplement E. Results Tables
 
@@ -212,12 +229,28 @@ The local branch should be interpreted with the following environmental constrai
 
 These constraints matter because local ceilings reflect both model capability and operating environment. The local branch therefore supports resilience claims, not hosted-quality parity claims.
 
-## Supplement G. Data, Materials, And Audit Trail Availability
+## Supplement G. Known Evidence Gaps And Follow-On Work
+
+### Current evidence gaps
+
+- The protocol-versus-instruction-specificity effect is not isolated because no instruction-matched non-protocol control has been run.
+- Hosted cells are single retained runs, so no run-to-run variance or statistical significance estimate is available.
+- The Anthropic `BP001` baseline is retained as an operator narrative rather than a full verbatim transcript.
+- Human `L2` review exists for the hosted `BP001/BP002` slice, but it does not provide separate baseline-versus-taught score columns.
+
+### Required major-revision work before stronger claims
+
+1. Add an instruction-matched control condition.
+2. Repeat each retained condition enough times to report variance and avoid treating one- or two-point deltas as stable effects.
+3. Preserve verbatim transcripts for every future baseline and taught output.
+4. Expand distinct human review or redesign the human review worksheet to score baseline and taught conditions separately.
+
+## Supplement H. Data, Materials, And Audit Trail Availability
 
 The following materials are publicly available as part of the manuscript evidence chain in the Protocol-Scaffolded Agentic Workflows Artifacts repository:
 
 - repository: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`
-- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.6`
+- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.7`
 
 - benchmark packets
 - run sheets

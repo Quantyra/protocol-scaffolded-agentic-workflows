@@ -1,6 +1,6 @@
 # EMSE Title Page Draft V1
 
-Date: 2026-04-11  
+Date: 2026-06-05
 Target venue: `Empirical Software Engineering`
 
 ## Purpose
@@ -9,13 +9,13 @@ Provide the separate title-page and declarations file required for `EMSE`.
 
 ## Title
 
-Protocol-Mediated Uplift in Agentic Workflows: Cross-Provider Evidence and Bounded Local Resilience
+Evaluating Protocol-Scaffolded Agentic Workflows Across LLM Providers
 
 ## Author Line
 
-Daniel Eric Fredriksen  
-Quantyra Inc, Nevada, United States  
-Chief Scientist, Quantyra  
+Daniel Eric Fredriksen
+Quantyra Inc, Nevada, United States
+Chief Scientist, Quantyra
 Corresponding author: `dfredriksen@quantyra.org`
 
 ## Keywords
@@ -42,7 +42,7 @@ Daniel Eric Fredriksen is the sole author and was responsible for the study conc
 
 ### Data, materials, and/or code availability
 
-The benchmark packets, retained artifact chains, reviewer materials, manuscript supplement, and selected reproducibility scripts supporting this study are publicly available in the Protocol-Scaffolded Agentic Workflows Artifacts repository: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`. The fixed paper-support release cited for this submission is version `v1.0.6`: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.6`.
+The benchmark packets, retained artifact chains, reviewer materials, manuscript supplement, and selected reproducibility scripts supporting this study are publicly available in the Protocol-Scaffolded Agentic Workflows Artifacts repository: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`. The fixed paper-support release cited for this submission is version `v1.0.7`: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.7`.
 
 ### Ethics approval
 
