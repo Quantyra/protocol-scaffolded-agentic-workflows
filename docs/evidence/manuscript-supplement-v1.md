@@ -216,8 +216,8 @@ These constraints matter because local ceilings reflect both model capability an
 
 The following materials are publicly available as part of the manuscript evidence chain in the Protocol-Scaffolded Agentic Workflows Artifacts repository:
 
-- repository: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows`
-- fixed paper-support release: `https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3`
+- repository: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`
+- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3`
 
 - benchmark packets
 - run sheets

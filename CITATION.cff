@@ -9,8 +9,8 @@ authors:
     given-names: "Daniel Eric"
     affiliation: "Quantyra Inc"
     email: "dfredriksen@quantyra.org"
-repository-code: "https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows"
-url: "https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3"
+repository-code: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows"
+url: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3"
 preferred-citation:
   type: article
   authors:
@@ -18,5 +18,5 @@ preferred-citation:
       given-names: "Daniel Eric"
   title: "Protocol-Mediated Uplift in Agentic Workflows: Cross-Provider Evidence and Bounded Local Resilience"
   year: 2026
-  url: "https://github.com/dfredriksen/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3"
+  url: "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3"
   note: "Open artifact repository supporting the Quantyra Teaching paper, version 1.0.3."
