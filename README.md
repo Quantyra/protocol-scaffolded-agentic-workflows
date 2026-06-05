@@ -9,7 +9,7 @@ This repository is the public evidence surface for the current Quantyra Teaching
 Repository URL:
 
 - `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`
-- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3`
+- fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.4`
 
 ## Scope
 

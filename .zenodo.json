@@ -18,10 +18,10 @@
   ],
   "upload_type": "software",
   "access_right": "open",
-  "version": "v1.0.3",
+  "version": "v1.0.4",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.3",
+      "identifier": "https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.4",
       "relation": "isSupplementTo",
       "resource_type": "software"
     }
