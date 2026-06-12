@@ -1,5 +1,7 @@
 # Protocol-Scaffolded Agentic Workflows Artifacts
 
+[![DOI](https://zenodo.org/badge/1208279512.svg)](https://doi.org/10.5281/zenodo.20552809)
+
 Open artifact repository for the paper:
 
 > **Evaluating Protocol-Scaffolded Agentic Workflows Across LLM Providers**
@@ -10,6 +12,8 @@ Repository URL:
 
 - `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows`
 - fixed paper-support release: `https://github.com/Quantyra/protocol-scaffolded-agentic-workflows/releases/tag/v1.0.7`
+- Zenodo concept DOI: `https://doi.org/10.5281/zenodo.20552809`
+- fixed `v1.0.7` archive DOI: `https://doi.org/10.5281/zenodo.20553373`
 
 ## Scope
 
@@ -60,6 +64,8 @@ Where the paper references retained evidence, benchmark packets, review material
 ## Citation
 
 If you use this repository, cite it via [`CITATION.cff`](./CITATION.cff).
+For reproducible citation of the current paper-support artifact, cite the
+fixed `v1.0.7` archive DOI: `https://doi.org/10.5281/zenodo.20553373`.
 
 ## License
 

@@ -1,6 +1,6 @@
 {
   "title": "Protocol-Scaffolded Agentic Workflows Artifacts",
-  "description": "Public artifact repository supporting an empirical paper on protocol-scaffolded agentic workflows, cross-provider LLM evaluation, retained evidence chains, reviewer-mediated assessment, and bounded local resilience. This metadata does not claim journal submission, peer review, acceptance, publication, or DOI creation before those events occur.",
+  "description": "Public artifact repository supporting an empirical paper on protocol-scaffolded agentic workflows, cross-provider LLM evaluation, retained evidence chains, reviewer-mediated assessment, and bounded local resilience. The release series concept DOI is 10.5281/zenodo.20552809; version v1.0.7 is archived at 10.5281/zenodo.20553373.",
   "creators": [
     {
       "name": "Fredriksen, Daniel Eric",
